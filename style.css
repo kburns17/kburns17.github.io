@@ -8,7 +8,8 @@
   backgound-color: gray;
 }
 .box{
-  width: 700px;
+  max-width: 800px;
+  width: 100%;
   background: #e1e1e1;
   padding: 40px;
   text-align: left;
